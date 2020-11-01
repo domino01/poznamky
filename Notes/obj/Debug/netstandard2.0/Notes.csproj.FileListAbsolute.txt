@@ -1,0 +1,12 @@
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\VisualStudio\Zkouska\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\VisualStudio\Zkouska\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\VisualStudio\Zkouska\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\VisualStudio\Zkouska\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp

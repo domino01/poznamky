@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGYOAQc25QU4UZHM3eF5cpn1lSSyW8WoqaQZFAaQodtE/FyvzMgcpl4ZXwB9K1mKd+Sc6NsiYRJC2Lui3kvhpw==",
+  "success": true,
+  "projectFilePath": "C:\\VisualStudio\\Zkouska\\Notes\\Notes\\Notes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik Maršálek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dominik Maršálek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dominik Maršálek\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\Dominik Maršálek\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\Dominik Maršálek\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\Dominik Maršálek\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

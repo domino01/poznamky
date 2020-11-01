@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="Notes.NoteEntryPage"
+             Title="Poznámky - Editor">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Uložit"
+                 IconImageSource="https://image.flaticon.com/icons/png/512/61/61848.png"
+                 Order="Primary"
+                 Clicked="OnDeleteButtonClicked"
+                 Priority="0" />
+        <ToolbarItem />
+        <ToolbarItem Text="Uložit"
+                 IconImageSource="https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/checkmark-24-512.png"
+                 Order="Primary"
+                 Clicked="OnSaveButtonClicked"
+                 Priority="0" />
+        
+
+    </ContentPage.ToolbarItems>
+    <StackLayout Margin="10">
+        <Label Text="Název:"
+               FontSize="16"/>
+        <Editor Text="{Binding Title}"
+                HeightRequest="60" />
+        <Label Text="Poznámka:"
+               FontSize="16"/>
+        <Editor Placeholder="________________________________________________________"
+                Text="{Binding Text}"
+                HeightRequest="9999"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </StackLayout>
+</ContentPage>
